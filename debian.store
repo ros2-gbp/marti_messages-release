@@ -1,1 +1,1 @@
-{"base": "4efe1a1c", "parent": "debian/rolling/marti_visualization_msgs", "previous": "11a77398", "trim": "", "trimbase": ""}
+{"base": "877237d2", "parent": "debian/humble/marti_visualization_msgs", "previous": "bc386a27", "trim": "", "trimbase": ""}
