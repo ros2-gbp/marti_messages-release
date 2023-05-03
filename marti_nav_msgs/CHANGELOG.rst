@@ -2,6 +2,9 @@
 Changelog for package marti_nav_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.4.1 (2023-05-03)
+------------------
+
 1.2.0 (2020-11-19)
 ------------------
 * Add path message (`#109 <https://github.com/swri-robotics/marti_messages/issues/109>`_) (`#111 <https://github.com/swri-robotics/marti_messages/issues/111>`_)
