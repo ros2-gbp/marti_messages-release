@@ -1,9 +1,23 @@
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package marti_perception_msgs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package marti_introspection_msgs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1.4.1 (2023-05-03)
 ------------------
+
+1.4.0 (2023-01-05)
+------------------
+* Add Introspection Messages (`#123 <https://github.com/swri-robotics/marti_messages/issues/123>`_)
+  * Updating authors' and maintainers' information
+  * Adding introspection messages
+* Contributors: David Anthony
+
+1.3.0 (2021-11-17)
+------------------
+* Merge pull request `#115 <https://github.com/swri-robotics/marti_messages/issues/115>`_ from danthony06/add_ros2_introspection_msgs
+  Add ros2 introspection Messages
+* Bringing in introspection messages
+* Contributors: David Anthony
 
 1.2.0 (2020-11-19)
 ------------------
@@ -13,8 +27,6 @@ Changelog for package marti_perception_msgs
 
 1.0.0 (2019-10-04)
 ------------------
-* Convert to ROS2 Dashing
-* Contributors: P. J. Reed
 
 0.8.0 (2018-10-19)
 ------------------
@@ -66,5 +78,3 @@ Changelog for package marti_perception_msgs
 
 0.0.1 (2015-09-22)
 ------------------
-* Initial Release
-* Contributors: Marc Alban, P. J. Reed
