@@ -124,11 +124,11 @@ tracks:
     patches: null
     release_inc: '2'
     release_repo_url: git@github.com:ros2-gbp/marti_messages-release.git
-    release_tag: :{version}
+    release_tag: 1.5.2
     ros_distro: humble
     vcs_type: git
     vcs_uri: https://github.com/swri-robotics/marti_messages.git
-    version: :{auto}
+    version: 1.5.2
   indigo:
     actions:
     - bloom-export-upstream :{vcs_local_uri} :{vcs_type} --tag :{release_tag} --display-uri
