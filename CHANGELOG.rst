@@ -2,6 +2,17 @@
 Changelog for package marti_dbw_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.5.2 (2023-11-03)
+------------------
+* Adding reverse low DBW constant (`#132 <https://github.com/swri-robotics/marti_messages/issues/132>`_)
+* Contributors: David Anthony
+
+1.5.1 (2023-09-11)
+------------------
+
+1.5.0 (2023-08-22)
+------------------
+
 1.4.1 (2023-05-03)
 ------------------
 * Adding missing include for std::string constants (`#126 <https://github.com/swri-robotics/marti_messages/issues/126>`_)
