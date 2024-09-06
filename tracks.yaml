@@ -352,8 +352,8 @@ tracks:
     patches: null
     release_inc: '1'
     release_repo_url: git@github.com:ros2-gbp/marti_messages-release.git
-    release_tag: 1.6.0
+    release_tag: 1.6.1
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/swri-robotics/marti_messages.git
-    version: 1.6.0
+    version: 1.6.1
