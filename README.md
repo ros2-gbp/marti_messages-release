@@ -1,3 +1,35 @@
+## marti_messages (iron) - 1.6.1-1
+
+The packages in the `marti_messages` repository were released into the `iron` distro by running `/usr/bin/bloom-release --edit --rosdistro iron marti_messages` on `Fri, 06 Sep 2024 03:04:27 -0000`
+
+These packages were released:
+- `marti_can_msgs`
+- `marti_common_msgs`
+- `marti_dbw_msgs`
+- `marti_introspection_msgs`
+- `marti_nav_msgs`
+- `marti_perception_msgs`
+- `marti_sensor_msgs`
+- `marti_status_msgs`
+- `marti_visualization_msgs`
+
+Version of package(s) in repository `marti_messages`:
+
+- upstream repository: https://github.com/swri-robotics/marti_messages.git
+- release repository: https://github.com/ros2-gbp/marti_messages-release.git
+- rosdistro version: `1.6.0-1`
+- old version: `1.6.0-1`
+- new version: `1.6.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## marti_messages (humble) - 1.6.1-1
 
 The packages in the `marti_messages` repository were released into the `humble` distro by running `/usr/bin/bloom-release --edit --rosdistro humble marti_messages` on `Fri, 06 Sep 2024 02:57:07 -0000`
