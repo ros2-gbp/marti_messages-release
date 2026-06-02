@@ -1,3 +1,35 @@
+## marti_messages (lyrical) - 1.6.1-4
+
+The packages in the `marti_messages` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release --edit --rosdistro lyrical marti_messages` on `Tue, 02 Jun 2026 19:20:54 -0000`
+
+These packages were released:
+- `marti_can_msgs`
+- `marti_common_msgs`
+- `marti_dbw_msgs`
+- `marti_introspection_msgs`
+- `marti_nav_msgs`
+- `marti_perception_msgs`
+- `marti_sensor_msgs`
+- `marti_status_msgs`
+- `marti_visualization_msgs`
+
+Version of package(s) in repository `marti_messages`:
+
+- upstream repository: https://github.com/swri-robotics/marti_messages.git
+- release repository: https://github.com/ros2-gbp/marti_messages-release.git
+- rosdistro version: `1.6.1-3`
+- old version: `1.6.1-3`
+- new version: `1.6.1-4`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## marti_messages (jazzy) - 1.6.1-1
 
 The packages in the `marti_messages` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --edit --rosdistro jazzy marti_messages` on `Fri, 06 Sep 2024 03:14:37 -0000`
